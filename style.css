@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+.butao {
+    background-color:#51AEAE;
+    color: white;
+    width: 800px;
+    height: 70px;
+    border-radius: 40px;
+    font-size: large;
+    font-weight: bold;
+    justify-content: center;}
+.butao:hover {
+    background-color:green;
+}
+.original {
+    width: 940px;
+    height: 500px;
+    margin-left: 300px;
+    background-color: purple;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.original:hover {
+    background-color: green;
+}
+aside1 {
+    margin-right: 0px;
+    height:100%;
+    width: 270px;
+    background-color: #056472;
+    clear: left;
+    float: left;
+    padding-right:10px;
+    padding-left: 10px;
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: bold;
+    justify-content: center}
+article {
+    float:right;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: #f5cdd3;
+    padding-right:0px;
+    margin-right:60px;
+    justify-content:center;
+    border-radius: 20px;
+}
+h2 { 
+    color:blue;
+}
+h3 {
+    color: brown;
+}
+aside2 {
+    float:right;
+}
+.star {
+    border: 5px solid rgb(22, 214, 22);
+    border-radius: 20px;
+}
+.star:hover {
+    background-color:purple
+}
+.smaller {
+      background-color:green;
+      color: white;
+      width:200px;
+      height: 50px;
+      border-radius:20px;
+      font-weight: bold;
+      font-size: large;
+}
+.smaller:hover {
+      background-color: purple;
+}
+.nice {
+      background-color:purple;
+      border-radius: 20px;
+}
+.nice:hover {
+      background-color: green;
+}
+.diff {
+      color: white;
+}
+.tamanho {
+      font-size: 25px;
+}
+.ready {
+     color: white;
+     border-left: 0px;
+     padding-left:0px;
+     justify-content:center;
+ }
+.beauty {
+     height: 400px;
+}
+.myImages {
+     display:none;
+}
+
+
+
+
+
+
+
+
